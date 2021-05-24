@@ -6,7 +6,7 @@
 
   <groupId>com.leidos.bundle.redaction</groupId>
   <artifactId>redaction</artifactId>
-  <version>1.6.5</version>
+  <version>1.6.6-SNAPSHOT</version>
 
   <name>redaction</name>
   <!-- FIXME change it to the project's website -->
